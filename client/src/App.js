@@ -1,6 +1,7 @@
 import './App.css';
 import axios from "axios";
-import {useState , useEffect } from "react";;
+import {useState , useEffect } from "react";
+import navbar from "navbar.js"
 function App() {
   const [posts , setPosts] = useState(null);
   useEffect(() => {
