@@ -3,6 +3,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Main from "./components/Main";
+import  Card  from "./components/Card";
 
 function App() {
   const [posts, setPosts] = useState(null);
