@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sahillather002/basic_app/static/css/main.a240c550.css",
+    "main.js": "/Sahillather002/basic_app/static/js/main.0129964d.js",
+    "index.html": "/Sahillather002/basic_app/index.html",
+    "main.a240c550.css.map": "/Sahillather002/basic_app/static/css/main.a240c550.css.map",
+    "main.0129964d.js.map": "/Sahillather002/basic_app/static/js/main.0129964d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.0129964d.js"
+  ]
+}
